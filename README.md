@@ -1,5 +1,4 @@
-# databricks
-Repositório da Aula sobre SQL no Databricks
+# Treinamento SQL + Databricks
 
-Teste 1
+Repositório da Aula sobre SQL no Databricks oferecidos pelo Teo Calvo e a LinuxTips
 
